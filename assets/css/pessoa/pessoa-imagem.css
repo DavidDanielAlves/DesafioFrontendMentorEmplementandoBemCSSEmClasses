@@ -1,0 +1,9 @@
+.pessoa__imagem {
+    background-image: url('../../images/avatar-jessica.jpeg');
+    background-size: cover;
+    background-position: center;
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    margin-bottom: 1.5rem;
+}

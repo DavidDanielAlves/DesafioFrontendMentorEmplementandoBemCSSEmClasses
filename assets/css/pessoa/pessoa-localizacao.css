@@ -1,0 +1,7 @@
+@import '../variaveis.css';
+
+.pessoa__localizacao {
+    color: var(--verde);
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}

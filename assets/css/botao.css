@@ -1,0 +1,16 @@
+@import './variaveis.css';
+
+.botao {
+    background-color: var(--cinza);
+    text-align: center;
+    padding: 16px 0;
+    border-radius: 5px;
+    text-decoration: none;
+    color: var(--branco);
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: var(--verde);
+    color: var(--cinza);
+}

@@ -1,0 +1,12 @@
+:root {
+    --branco: hsl(0, 0%, 100%);
+    --cinza: hsl(0, 0%, 20%);
+    --cinza-escuro: hsl(0, 0%, 12%);
+    --preto-opaco: hsl(0, 0%, 8%);
+    --verde: hsl(75, 94%, 57%);
+
+    --tamanho-da-fonte: 14px;
+    --peso-regular: 400;
+    --peso-medio: 600;
+    --peso-alto: 700;
+}

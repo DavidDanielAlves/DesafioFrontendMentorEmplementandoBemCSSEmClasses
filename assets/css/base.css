@@ -1,0 +1,22 @@
+@import './variaveis.css';
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/Inter-VariableFont_slnt\,wght.ttf') format('truetype');
+}
+
+*{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--preto-opaco);
+    color: var(--branco);
+    font-size: var(--tamanho-da-fonte);
+    font-weight: var(--peso-regular);
+    width: 100vw;
+    height: 100vh;
+}

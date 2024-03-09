@@ -1,0 +1,10 @@
+@import './base.css';
+@import './pincipal.css';
+@import './pessoas.css';
+@import './botoes.css';
+@import './botao.css';
+@import './pessoa/pessoa.css';
+@import './pessoa/pessoa-imagem.css';
+@import './pessoa/pessoa-nome.css';
+@import './pessoa/pessoa-localizacao.css';
+@import './pessoa/pessoa-descricao.css';
