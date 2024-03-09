@@ -8,9 +8,15 @@
     text-decoration: none;
     color: var(--branco);
     font-weight: bold;
+    transition: all 0.1s ease-in-out;
 }
 
 .botao:hover {
     background-color: var(--verde);
     color: var(--cinza);
+}
+
+.botao:active {
+    background-color: var(--cinza);
+    color: var(--branco);
 }
